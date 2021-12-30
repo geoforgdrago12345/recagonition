@@ -1,0 +1,21 @@
+body{
+font-family: fantasy;
+font-style: italic;
+color: rgb(3, 226, 255);
+}
+#camera{
+   height: 300px; 
+   width: 300px;
+   border-style: groove;
+   border-radius: 6px;
+   border-width:5px;
+   
+}
+h3{
+    
+    border-radius: 10px;
+    border-style: ridge;
+    border-color: lawngreen;
+    border-width: 8;
+    width: 80%;
+}
